@@ -1,12 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="html" type="Go template" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <removed_mapping pattern=".yaml.dist" approved="true" type="YAML" />
       <removed_mapping ext="dist" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*yml.dist" approved="true" type="YAML" />
       <removed_mapping pattern=".yml.dist" approved="true" type="YAML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
