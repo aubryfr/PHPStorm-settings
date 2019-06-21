@@ -7,7 +7,6 @@
         <added pattern="(*)" />
       </blacklist>
       <blacklist language="PHP">
-        <added pattern="(*)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
