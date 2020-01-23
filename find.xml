@@ -15,5 +15,6 @@
     <mask>*.yaml</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*.y*ml</mask>
   </component>
 </application>
