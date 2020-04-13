@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern="Dockerfile-poller" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-enrichment-poller" type="PLAIN_TEXT" />
       <mapping pattern="setup-aws-credentials" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
