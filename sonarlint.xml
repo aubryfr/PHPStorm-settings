@@ -2,6 +2,7 @@
   <component name="SonarLintGlobalSettings">
     <rules>
       <Rule active="false" key="php:S108" />
+      <Rule active="false" key="php:S1117" />
     </rules>
   </component>
 </application>
