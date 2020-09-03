@@ -1,3 +1,6 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="EditorDuplicateLines" />
 </keymap>
