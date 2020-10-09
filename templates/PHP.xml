@@ -9,4 +9,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="shrug" value="¯\_(ツ)_/¯" description="¯\_(ツ)_/¯" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
