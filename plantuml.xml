@@ -1,5 +1,5 @@
 <application>
-  <component name="PlantUmlSettings">
+  <component name="PlantUmlSettingsNew">
     <option name="dotExecutable" value="/usr/bin/dot" />
   </component>
 </application>
